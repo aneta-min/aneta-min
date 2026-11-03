@@ -1,16 +1,21 @@
-## Hi there 👋
+# Hi, I'm Aneta!
 
-<!--
-**aneta-min/aneta-min** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm an MSc student in Applied Mathematics at Masaryk University, Czech Republic.
 
-Here are some ideas to get you started:
+## Interests
+- Statistical modelling and inference
+- Data science and data analysis
+- Computational social science
+- Applied statistics
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## Tools
+- R, RStudio, Quarto
+- Python
+- LaTeX
+
+## Selected projects
+Here you can find selected academic and personal projects related to statistical modelling, data analysis and applied mathematics.
+
+## Education
+**Masaryk University**  
+MSc in Applied Mathematics
